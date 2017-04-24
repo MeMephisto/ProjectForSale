@@ -1,0 +1,32 @@
+#pane{
+    -fx-background-image: url("/images/forsalespelafb.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1250 700;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+.addBobOk{
+        -fx-background-color:#00a4d3;
+        -fx-background-radius: 5,5,4;
+        -fx-background-insets: 0 0 -1 0,0,1;
+        -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+        -fx-text-alignment: center;
+	-fx-text-fill: #fec63d;
+}
+
+.btnStyle{
+    -fx-background-color:#1d6f06;
+    -fx-background-radius:5,5,4;
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+    -fx-text-alignment: center;
+    -fx-text-fill: #fec63d;
+}
+
+#woodenBackground{
+    -fx-background-image: url("/images/houtachtergrond.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1250 700;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
